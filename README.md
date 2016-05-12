@@ -1,9 +1,9 @@
-# ali yun table store api
+# aliyun tablestore api by golang
 ===================================================
 
 Overview
 --------
-aliyun tablestroe document [https://help.aliyun.com/document_detail/ots/DeveloperGuide/ots-table.html]
+One Golang package for aliyun tablestroe document [https://help.aliyun.com/document_detail/ots/DeveloperGuide/ots-table.html]
 
 Examples
 --------
